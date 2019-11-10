@@ -1,8 +1,9 @@
+import User from locker:
 import random
 import string
 
 
-class User:
+class  User:
     '''
     Create User class that generates new instances of a user
     '''
