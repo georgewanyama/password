@@ -1,4 +1,4 @@
-import User from locker:
+
 import random
 import string
 
