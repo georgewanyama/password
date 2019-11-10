@@ -14,3 +14,6 @@ as user one should
  -  Copy my credentials to the clipboard
 
 
+## set up and installtion 
+ 
+ use a user what  must do is to clone the repo at georgewanyama password
