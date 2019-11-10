@@ -17,3 +17,8 @@ as user one should
 ## set up and installtion 
  
  use a user what  must do is to clone the repo at georgewanyama password
+
+ ## technologies Used
+
+ python3.6
+ markdown for the readm
