@@ -21,4 +21,30 @@ as user one should
  ## technologies Used
 
  python3.6
- markdown for the readm
+ markdown for the read
+
+## users stories
+
+- Create an account for the application or log into the application.
+- Store my existing acounts login details for various accounts that i have registered for.
+- Generate new password for an account that i haven't registered for and - store it with the account name.
+- Delete stored account login details that i do now want anymore.
+- Copy my credentials to clipboard
+
+ ## installation
+
+ enter the project repository and 
+ follow this link - https://github.com/georgewanyama/password
+
+## bdd
+- clone the repo
+- open teminal
+- enter your name
+- store your credential
+- find your credential
+- delete an exisiting credetion
+ - the aplication
+
+## lincense
+
+copyright (c) @ litmus 2019
