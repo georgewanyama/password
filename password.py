@@ -80,7 +80,6 @@ def generate_Password():
 def password_locker():
     print("Hello Welcome to your Password Store...\n Please enter any of these shortcodes:\n CA ---  Create New Account  \n HA ---  Already Have An Account  \n")
     short_code=input("").lower().strip()
-
     if short_code == "ca":
         print("Sign Up")
         print('*' * 50)
